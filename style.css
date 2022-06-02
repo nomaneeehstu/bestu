@@ -1,0 +1,33 @@
+h1{
+    color: chocolate;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+div{
+    border: 2px solid rebeccapurple;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: bisque;
+}
+
+p{
+    font-size: 20px;
+    color: darkgreen;
+    font-weight: 900;
+}
+
+h3{
+    color: blue;
+    font-size: 30px;
+}
+article{
+    font-size: large;
+    border: 2px solid rebeccapurple;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(28, 136, 109);
+    width: 25%;
+}
